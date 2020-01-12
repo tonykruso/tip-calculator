@@ -5,3 +5,4 @@ easy tip calculator based on amount of bill, type of service, and number of peop
 uses HTML for framework, CSS for styling, JavaScript for functions.
 
 
+see a video of the working app here: https://drive.google.com/file/d/1ULaVEjhDlxAkj6oYSpFCO7tHttpsNIpa/view
